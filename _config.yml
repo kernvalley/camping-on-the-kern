@@ -1,7 +1,7 @@
 ---
 author: Chris Zuber
-title: Jekyll Template Demo
-url: 'https://infallible-galileo-ac41ee.netlify.app'
+title: Camping on the Kern
+url: https://zen-jackson-a652d8.netlify.app
 markdown: kramdown
 version: 1.3.0
 timezone: America/Los_Angeles
@@ -20,7 +20,7 @@ og-type: website
 keep-kern-clean: true
 description: "A template repository for Jekyll sites, including skeleton JS, CSS, SVGs, fonts, etc."
 mobile-web-app-capable: true
-canonical: https://infallible-galileo-ac41ee.netlify.app/''
+canonical: https://zen-jackson-a652d8.netlify.app
 keywords:
   - jekyll
   - static
@@ -35,10 +35,10 @@ keywords:
   - javascript
   - es6
 repository:
-  username: shgysk8zer0
-  project: jekyll-template
-  title: Jekyll Template
-twitter: "shgysk8zer0"
+  username: kernvalley
+  project: camping-on-the-kern
+  title: Camping on the Kern
+twitter: kern_valley
 feed:
   url: /feed.rss
   type: application/rss+xml

@@ -1,6 +1,9 @@
 #nav {
 	font-size: 1.2em;
 	gap: 18px;
+	grid-area: nav;
+	background-color: #83a377;
+	color: #272e38;
 }
 
 #nav > .nav-btn {
